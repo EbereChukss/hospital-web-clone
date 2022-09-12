@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.first-img{
+    background-image: url(img/accessory-close-up-clothes-1391420.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.hero-div{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.first-header{
+    font-size: 60px;
+}
+.span{
+    font-size: 20px;
+}
+.about-section{
+    background-image: url(img/apparel-attire-blur-994517\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.about-div{
+    background-color: white;
+    padding: 90px;
+}
+.do-section{
+    background-image: url(img/apparel-black-and-white-boutique-1884583.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.do-div{
+    background-color: white;
+    padding: 90px;
+}
+.different-section{
+    background-image: url(img/beautiful-beauty-black-friday-972995.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    margin-bottom: 100px;
+}
+.different-div{
+    background-color: white;
+    padding: 90px;
+}
+.service-section{
+    background-image: url(img/apparel-black-and-white-boutique-1884583.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.service-div{
+    background-color: white;
+    height: 90vh;
+}
+.button{
+    margin-left: 400px !important;
+    background-color: rgb(105, 97, 95)!important;
+    border: none!important;
+    width: 180px!important;
+    height: 50px!important;
+}
+.card-header{
+    background: white!important;
+}
+.card-header:hover{
+    background: #937c6f!important;
+}
+.btn-link {
+    font-weight: 400;
+    color: #333!important;
+     text-decoration: none!important; 
+}
+.last1{
+    list-style-type: none;
+    margin-right: 63px;
+    margin-left: 63px;
+    display: inline-block!important;
+   
+}
+.last1 a{
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.2em;
+     text-decoration: none!important;
+    
+}
+.last2{
+    color: tomato;
+     list-style-type: none;
+    margin-right: 15px;
+     margin-left: 15px;
+    display: inline-block!important;
+}
+.last2 a{
+    font-size: 25px;
+    font-weight: 600;
+    letter-spacing: 0.2em;
+   text-decoration: none!important;
+}
